@@ -1,5 +1,36 @@
 # BeamraBlog
 
+## Key Features:
+
+User authentication (sign up, login, profile management)
+
+Post creation and editing with a rich text editor
+
+Categories and tags for organizing content
+
+Comment system for reader engagement
+
+Responsive design for mobile and desktop
+
+Search and filter functionality for easy content discovery
+
+Admin panel for managing users and posts
+
+## Technologies:
+
+Frontend: React / Next.js (or any modern framework)
+
+Backend: Node.js / Express (or Django, Laravel, etc.)
+
+Database: MongoDB / PostgreSQL / MySQL
+
+Styling: Tailwind CSS / Bootstrap
+
+Deployment: Docker, Vercel, or AWS
+
+## Goal:
+The goal of this project is to provide a clean, customizable, and scalable blogging solution that can be used by individuals, writers, or organizations to publish and share knowledge, news, and personal experiences.
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.1.4.
 
 ## Development server
