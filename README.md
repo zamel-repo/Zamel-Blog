@@ -1,4 +1,11 @@
-# BeamraBlog
+# Zamel Blog
+<img width="1898" height="1078" alt="image" src="https://github.com/user-attachments/assets/6c190707-4804-40ac-9178-36256975d7fe" />
+<img width="1885" height="878" alt="image" src="https://github.com/user-attachments/assets/bf2d2232-20df-44d8-b016-7cfd11c2fec9" />
+<img width="1897" height="1078" alt="image" src="https://github.com/user-attachments/assets/de60c7c7-d798-46ff-a788-6ed91cac942d" />
+<img width="1897" height="1078" alt="image" src="https://github.com/user-attachments/assets/2f5bf84d-ea19-427e-acae-6a6787d3eb1f" />
+<img width="1897" height="1077" alt="image" src="https://github.com/user-attachments/assets/e3abfd23-1814-4eda-a7e7-d42f0a122a9c" />
+<img width="1876" height="872" alt="image" src="https://github.com/user-attachments/assets/24a49d75-f729-4dfc-bb77-a261b269eb97" />
+
 
 ## Key Features:
 
